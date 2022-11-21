@@ -1,0 +1,10 @@
+## Interface: 100002
+## Title: |cff00ccffKillThemAll_LichKing|r
+## Version: 1.4.3
+## Notes: Adds The Lich King to KillThemAll
+## Author: Thex
+## DefaultState: enabled
+##Dependencies: KillThemAll
+
+LichKing.lua
+Core.lua
